@@ -25,8 +25,9 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img {
-    width: 150px;
-    border-radius: 50%;
+    width: 200px;
+    /* aspect-ratio: 1; */
+    border-radius: 50px;
     border: 6px solid brown;
     margin-bottom: 10px;
 }
